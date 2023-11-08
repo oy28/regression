@@ -1,0 +1,12 @@
+# 数式のフォントをLaTeX風に
+mathtext.fontset: cm
+# グラフを左右の余白なしで表示
+axes.xmargin: 0.0
+# 上下左右に目盛を表示
+xtick.top: True
+xtick.bottom: True
+ytick.left: True
+ytick.right: True
+# 目盛を内側に
+xtick.direction: in
+ytick.direction: in
